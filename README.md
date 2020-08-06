@@ -19,12 +19,12 @@
 ### Languages & Tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />](https://www.w3schools.com/html/)
-[<img align="left" alt="CSS" width="30px" src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png" />](https://www.w3schools.com/css/)
-[<img align="left" alt="React JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />](https://reactjs.org/)
-[<img align="left" alt="Node JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />](https://nodejs.org/en/)
-[<img align="left" alt="Amazon Web Services" width="30px" src="https://miro.medium.com/max/4000/1*b_al7C5p26tbZG4sy-CWqw.png" />](https://aws.amazon.com/)
-[<img align="left" alt="MongoDB" width="30px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.mongodb.com/)
-[<img align="left" alt="Flask" width="30px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
+[<img align="left" alt="CSS" width="25px" src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png" />](https://www.w3schools.com/css/)
+[<img align="left" alt="React JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />](https://reactjs.org/)
+[<img align="left" alt="Node JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Amazon Web Services" width="45px" src="https://miro.medium.com/max/4000/1*b_al7C5p26tbZG4sy-CWqw.png" />](https://aws.amazon.com/)
+[<img align="left" alt="MongoDB" width="45px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />](https://www.mongodb.com/)
+[<img align="left" alt="Flask" width="40px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/en/1.1.x/)
 [<img align="left" alt="Vue Js" width="30px" src="https://vuejs.org/images/logo.png" />](https://vuejs.org/)
 
 <br />
