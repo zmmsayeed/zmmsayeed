@@ -34,7 +34,7 @@
 ---
 
 ### Statistics:
-![Zimam's github stats](https://github-readme-stats.vercel.app/api?username=zmmsayeed&hide=contribs)
+![Zimam's github stats](https://github-readme-stats.vercel.app/api?username=zmmsayeed&hide=contribs&show_icons=true)
 
 [website]: https://google.com
 [Facebook]: https://www.facebook.com/zmmsayeed
