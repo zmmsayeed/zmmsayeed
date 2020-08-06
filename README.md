@@ -7,11 +7,6 @@
 - 😄 2020 Goals: Work on projects based on new technologies.
 - ⚡ Fun fact: I love to play cricket.
 
-<br />
-<br />
-
----
-
 ### Statistics:
 ![Zimam's github stats](https://github-readme-stats.vercel.app/api?username=zmmsayeed&hide=contribs,issues&show_icons=true&count_private=true&theme=dark)
 
