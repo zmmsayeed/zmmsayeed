@@ -7,6 +7,14 @@
 - 😄 2020 Goals: Work on projects based on new technologies.
 - ⚡ Fun fact: I love to play cricket.
 
+<br />
+<br />
+
+---
+
+### Statistics:
+![Zimam's github stats](https://github-readme-stats.vercel.app/api?username=zmmsayeed&hide=contribs,issues&show_icons=true&count_private=true&theme=dark)
+
 ### Connect with me:
 [<img align="left" alt="zimamsayeed.com" width="40px" src="https://i.pinimg.com/originals/90/6b/94/906b94d1bed351b8d0f2f95448a0d6c0.png" />][website]
 [<img align="left" alt="Twitter" width="40px" src="https://picklefeetgames.com/wp-content/uploads/2018/12/twitter-app-icon-transparent-17-2.png" />][Twitter]
@@ -31,13 +39,7 @@
 [<img align="left" alt="PHP" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/firebase/images/touchicon-180.png" />](https://firebase.google.com/)
 [<img align="left" alt="PHP" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />](https://www.mysql.com/)
 
-<br />
-<br />
 
----
-
-### Statistics:
-![Zimam's github stats](https://github-readme-stats.vercel.app/api?username=zmmsayeed&hide=contribs,issues&show_icons=true&count_private=true&theme=dark)
 
 [website]: https://google.com
 [Facebook]: https://www.facebook.com/zmmsayeed
