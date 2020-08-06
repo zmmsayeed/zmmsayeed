@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Mohammd Zimam Sayeed - aka [Zimam][website] 👋
+
+## I'm a Developer, Cricketer and a Travel Enthusiast!
+- 🔭 I’m currently working on [Life On Canvas Website][website]
+- 🌱 I’m currently learning Flutt
+- 👯 I’m looking to collaborate with other developers.
+- 🤔 I’m looking for help with anything you find wrong in my profile.
+- 💬 Ask me about JavaScript, ReactJs, NodeJs, AWS
+- 😄 2020 Goals: Efficiently learn new technologies and contribute more to Open Source projects.
+- ⚡ Fun fact: I love to play cricket.
 
 <!--
 **zmmsayeed/zmmsayeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
