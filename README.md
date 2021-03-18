@@ -3,7 +3,7 @@
 ## I'm a Developer, Cricketer and a Travel Enthusiast!
 - 🔭 I’m currently working on [Life On Canvas Website][website]
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about JavaScript, ReactJs, NodeJs, AWS
+- 💬 Ask me about JavaScript, Typescript, ReactJs, NodeJs, AWS
 - 😄 2020 Goals: Work on projects based on new technologies.
 - ⚡ Fun fact: I love to play cricket.
 
