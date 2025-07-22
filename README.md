@@ -1,61 +1,116 @@
-Hi 👋 My name is Zimam Sayeed
-=============================
+<h1 align="center">Hi 👋, I'm Zimam Sayeed</h1>
+<h3 align="center">Senior Software Engineer | Solution Architect | GenAI Specialist</h3>
 
-Software Engineer, Cricketer, and a Travel Enthusiast!
-------------------------------------------------------
-
-* 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [Zimam Sayeed](http://zimamsayeed.com)
-* ✉️  You can contact me at [zmmsayeed@gmail.com](mailto:zmmsayeed@gmail.com)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love to play cricket
-
-### Skills
-
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+AI-powered+Solutions;Building+Scalable+Systems;Cricket+Fan+%26+Travel+Enthusiast;Open+to+Collaboration&center=true&width=500&height=40">
 </p>
 
+---
 
-### Socials
+🌏 **Location:** Dubai, United Arab Emirates  
+🔗 **Portfolio:** [zimamsayeed.com](http://zimamsayeed.com)  
+📬 **Contact:** [zmmsayeed@gmail.com](mailto:zmmsayeed@gmail.com)  
+💼 **LinkedIn:** [in/zmmsayeed](https://www.linkedin.com/in/zmmsayeed)  
+🧑‍💻 **Currently:** Senior Software Engineer @ Cimpress | Ex-Kaleyra | Ex-Signzy (Now TCS)  
+🎯 **Learning:** Deep-diving into GenAI, LLMs, and Multi-Agent Systems  
+🏏 **Fun fact:** Huge cricket fan and love exploring new places!
 
-<p align="left"> <a href="https://www.github.com/zmmsayeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zmmsayeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zmmsayeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@zimamsayeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/3184423/zmmsayeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zmmsayeed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+<div style="background-color: white; padding: 20px; border-radius: 10px; border: 1px solid #e1e5e9; margin: 10px 0;">
 
-<b>My GitHub Stats</b>
+## 🚀 Tech Stack & Specialties
 
-<a href="http://www.github.com/zmmsayeed"><img src="https://github-readme-stats.vercel.app/api?username=zmmsayeed&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zmmsayeed's GitHub stats" /></a>
+<!-- Programming -->
+**AI/GenAI:**  
+Python, LangChain, Llama-Index, Haystack, RAG, OpenAI API, AWS Bedrock, SageMaker, Scaled Cognition, Portkey, ChromaDB, Pinecone, Qdrant, Hugging Face
 
-<a href="http://www.github.com/zmmsayeed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zmmsayeed&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=go,py,js,ts,php,cs,dotnet,nodejs,html,css,sass" />
 
-<a href="http://www.github.com/zmmsayeed"><img src="https://activity-graph.herokuapp.com/graph?username=zmmsayeed&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Frameworks & Libraries:**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,express,nestjs,redux,flask,django,laravel" />
 
-<a href="https://github.com/zmmsayeed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmmsayeed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Cloud & DevOps:**  
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,bitbucket" />
+
+**Databases:**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,dynamodb,redis" />
+
+**Tools & Platforms:**  
+Jira, Git, VS Code, Postman, Storybook, SonarCloud, Serverless, New Relic, Cloudflare AI Gateway
+
+</div>
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zmmsayeed&show_icons=true&theme=radical&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmmsayeed&theme=radical" height="170" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmmsayeed&layout=compact&theme=radical&langs_count=10" height="130" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🚀 **Enterprise RAG Platform**
+- Built advanced RAG systems with **LangChain, LlamaIndex, Haystack** (Python/Node.js).
+- **Boosted support efficiency by 35%** with real-time, context-aware AI chat flows.
+- Integrated multi-agent orchestration via **Scaled Cognition**, Portkey, and AWS Bedrock.
+
+### 🗂️ **Mass Communication Microservices**
+- Transformed legacy monolith to containerized microservices (**Node.js, Golang, React, Kubernetes on AWS**).
+- Reduced deployment times & server load, hitting 90% improvement in some metrics.
+
+### 🕒 **HR Attendance Management**
+- Full-stack MERN system with real-time timesheets, clock-in/out, and card scan support.
+- Solved multi-timezone data issues; improved accuracy and efficiency.
+
+### 💬 **Reply Recommendation Chatbot**
+- Built GenAI-based auto-reply for customer support using **OpenAI, LlamaIndex, ChromaDB**.
+- Automated reply suggestions, increasing engagement and cutting response times.
+
+---
+
+## 🥇 What I Do Best
+
+- Architect and code **scalable, AI-driven web and backend systems**
+- Integrate cutting-edge LLMs, vector search, RAG, and multi-agent frameworks
+- Automate CI/CD, cloud infra, and observability at scale (AWS, GCP, Azure)
+- Mentor, share, and collaborate on high-impact engineering projects
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zmmsayeed" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
+  <a href="mailto:zmmsayeed@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
+  <a href="https://github.com/zmmsayeed" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
+  <a href="http://www.instagram.com/zmmsayeed" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+  <a href="https://www.stackoverflow.com/users/3184423/zmmsayeed" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="32"/></a>
+  <a href="https://twitter.com/zmmsayeed" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
+  <a href="http://zimamsayeed.com" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="32"/></a>
+  <a href="http://www.medium.com/@zimamsayeed" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="32"/></a>
+</p>
+
+---
+
+<details>
+  <summary>📚 <b>Certifications & Education</b></summary>
+  
+  - **M.Tech. in Software Engineering** (BITS Pilani, 2027)
+  - **B.E. in Computer Science** (VTU, Bangalore, 2019)
+  - AWS, GenAI, and Cloud Specializations
+
+</details>
+
+---
+
+_“Building things that matter. Exploring the boundaries of AI, web, and cloud—one commit at a time.”_
+
